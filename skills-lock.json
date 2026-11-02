@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "skills": {
+    "nextjs": {
+      "source": "openai/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/vercel/skills/nextjs/SKILL.md",
+      "computedHash": "6935d3f37acef5b152b2881ac9f19cf6fd0e909674dfe8a8c84866809eee13bf"
+    },
+    "react-best-practices": {
+      "source": "openai/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/vercel/skills/react-best-practices/SKILL.md",
+      "computedHash": "543f177f74f3348da73fff27d350acddd1bae47031b3f2f42ad7becf79993189"
+    },
+    "shadcn": {
+      "source": "openai/plugins",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/build-web-apps/skills/shadcn-best-practices/SKILL.md",
+      "computedHash": "6a262470b035818b5668b0b77ae273a98579a0cb1b5befa1b06e940a25ed66d8"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "f3bc47f890f42a44db1007ab390709ec368e4b8c089baee6b0007182236ac474"
+    }
+  }
+}
